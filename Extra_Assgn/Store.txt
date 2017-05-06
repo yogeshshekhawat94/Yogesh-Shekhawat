@@ -1,0 +1,3 @@
+empId is =    1 
+ empSalary=   989988,
+ empName is=  shubham
